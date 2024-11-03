@@ -2,7 +2,7 @@
 // click a button ad display that recipe //
 // the browser needs to display it //
 
-const spoonacularAPIKEY = "a2bb7203e71c48a0ad55821addd45c2e,,,";
+const spoonacularAPIKEY = "a2bb7203e71c48a0ad55821addd45c2e";
 
 
 const getRecipeButton = document.querySelector('#generate-button');
